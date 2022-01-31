@@ -1,11 +1,9 @@
->WebsiteName: Tour_X-----
->livesite:https://tour-x-fa366.web.app    ---
->you can book your dream tour from tour_x at a cheap price in differetn location in the world -----
->Feature and function:
-    >* Different location
-    >* Can see your bookings
-    >* can see all bookings
-    >* service details
-    >* cancel any booking# Drone_bd_client_side
-# Drone_bd_client_side
-# Drone_bd_client_side
+# WebsiteName: Drone_BD-----
+# livesite:https://drone-bd-cf88b.web.app    ---
+# You can buy drone and other drone aaccessories aslo control product and order list -----#Feature and function:
+# differenttype drone
+# dashboard access
+# buy drone at a cheap price
+# every drone details
+# control order and product items
+
