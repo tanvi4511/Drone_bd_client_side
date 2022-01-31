@@ -1,0 +1,44 @@
+[
+    {
+        "key": 1,
+        "title": "Multi-Rotor Drones",
+        "details": "Where a single-rotor drone looks like a helicopter and is able to maintain flight with a single rotor, these units have several rotors positioned at strategic points on the craft.",
+        "price": 180,
+        "img": "https://aerocorner.com/wp-content/uploads/2020/02/DJI-Phantom-Drone-730x487.jpg"
+    },
+    {
+        "key": 2,
+        "title": "Fixed-Wing Drones",
+        "details": "The lack of rotors and fixed-wing style of these drones make them more similar to controllable airplanes rather than the helicopter style of other drones",
+        "price": 200,
+        "img": "https://aerocorner.com/wp-content/uploads/2020/02/Boeing-Scan-Eagle-Unmanned-Aerial-Vehicle.jpg"
+    },
+    {
+        "key": 3,
+        "title": "Fixed-Wing Hybrid Drones",
+        "details": "This types of drone attempt to take the best from fixed-wing and rotor-based designs, making for drones that feature both. A fixed-wing hybrid drone will tend to have a couple rotors",
+        "price": 120,
+        "img": "https://aerocorner.com/wp-content/uploads/2020/02/VTOL-UAV-prototype-NASA-730x400.jpg"
+    },
+    {
+        "key": 4,
+        "title": "Small Drones",
+        "details": "These drones are strictly recreational and usually cannot perform many of the commercial functions of which some of those other models are capable",
+        "price": 300,
+        "img": "https://aerocorner.com/wp-content/uploads/2020/02/DJI-Mavic-Pro-730x486.jpg"
+    },
+    {
+        "key": 5,
+        "title": "Micro Drones",
+        "details": "While smaller drones may mean recreation in the eyes of consumers, for militaries who use drones, micro drones are all business. The most well-known example of this type of drone in action today",
+        "price": 250,
+        "img": "https://aerocorner.com/wp-content/uploads/2020/02/Micro-Drone-U.S.-Air-Force-730x487.jpg"
+    },
+    {
+        "key": 6,
+        "title": "Tactical Drones",
+        "details": "These drones are large enough to not be pocket-sized, while still being far smaller than the type used for general combat and larger tasks",
+        "price": 145,
+        "img": "https://aerocorner.com/wp-content/uploads/2020/02/Raven-UAV-flying-730x487.jpg"
+    }
+]
